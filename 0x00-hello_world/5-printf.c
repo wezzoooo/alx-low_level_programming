@@ -3,12 +3,13 @@
 /**
  * main - Entry point
  *
- * Description : A c program prints with printf function
+ * Description : A C programm that print printf function
  *
  * Return : Always 0 (success)
 */
 
-int main(void){
+int main(void)
+{
 	printf("with proper grammar, but the outcome is a piece of art,\n");
 	return (0);
 }
