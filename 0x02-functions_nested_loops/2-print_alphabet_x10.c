@@ -11,8 +11,8 @@ int i, l;
 
 for (i = 10 ; i <= 10 ; i++)
 {
-for (l = 'a' ; l <= 'z' ; l++){
-_putchar(l);		}
+for (l = 'a' ; l <= 'z' ; l++)
+_putchar(l);
 _putchar(10);
 }
 }
